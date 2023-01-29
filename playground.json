@@ -1,0 +1,14 @@
+{
+  "examples": [
+			{
+				"id": "egl",
+				"title": "Generate yEd Palette",
+				"language": "egl",
+				"program": "palette.egl",
+				"flexmi": "palette.flexmi",
+				"emfatic": "palette.emf",
+				"outputType": "code",
+        "outputLanguage": "XML"
+			}
+  ]
+}
