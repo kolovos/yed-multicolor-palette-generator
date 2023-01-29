@@ -1,0 +1,6 @@
+@namespace(uri="palette", prefix="")
+package palette;
+
+class Color {
+	attr String hex;
+}
