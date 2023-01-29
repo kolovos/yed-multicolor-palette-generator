@@ -1,0 +1,1 @@
+# yed-multicolor-palette-generator
