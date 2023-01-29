@@ -8,7 +8,7 @@
 				"flexmi": "palette.flexmi",
 				"emfatic": "palette.emf",
 				"outputType": "code",
-        "outputLanguage": "XML"
+				"outputLanguage": "XML"
 			}
   ]
 }
